@@ -8,8 +8,8 @@ export default function Skills() {
           <span class="decoration-blue-500">Features</span>
         </h1>
 
-        <p class="mt-4 text-white-500 xl:mt-6 dark:text-white-300">
-          Simply by design, powerful when needed.
+        <p class="mt-4 text-white-500 xl:mt-6 text-white-300 font-medium">
+          Saturn has tons of features, here's our favorites.
         </p>
 
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
@@ -29,11 +29,11 @@ export default function Skills() {
               </svg>
             </span>
 
-            <h1 class="text-2xl font-semibold text-white-700 capitalize dark:text-white">
-              Super fast & Lightweight
+            <h1 class="text-2xl font-semibold text-white-700 capitalize text-white">
+              It's Super fast & Lightweight
             </h1>
 
-            <p class="text-gray-500 dark:text-gray-300">
+            <p class="text-white-100">
               Saturn was made with speed in mind, no useless animations or bulky
               code. Everything loads in a matter of seconds.
             </p>
@@ -53,13 +53,12 @@ export default function Skills() {
               </svg>
             </span>
 
-            <h1 class="text-2xl font-semibold text-white-700 capitalize dark:text-white">
+            <h1 class="text-2xl font-semibold text-white-700 capitalize text-white">
               Privacy first
             </h1>
 
-            <p class="text-gray-500 dark:text-gray-300">
-              Saturn Startpage DOES NOT & never will collect any data about you,
-              your data should stay yours forever.
+            <p class="text-white-100">
+              Saturn Startpage DOES NOT & never will collect any data about you. Saturn was build with offline use in mind. 
             </p>
           </div>
 
@@ -81,11 +80,11 @@ export default function Skills() {
               </svg>
             </span>
 
-            <h1 class="text-2xl font-semibold text-white-700 capitalize dark:text-white">
+            <h1 class="text-2xl font-semibold text-white-700 capitalize text-white">
               Simple & Modern. By design
             </h1>
 
-            <p class="text-gray-500 dark:text-gray-300">
+            <p class="text-white-100">
               Everything is straight forward and gets you where you need to go
               quickly.
             </p>
